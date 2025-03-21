@@ -2,7 +2,7 @@
 title: "Current Projects"
 ---
 
-This is a selection of the main projects of the *Measurement and Machine Learning Lab*. In addition to these projects, all team members are involved in other projects besides the ones listed below:
+This is a selection of the main projects of the *Measurement and Machine Learning Lab*. All team members are involved in other projects besides the ones listed below:
 
 \
 
@@ -10,7 +10,9 @@ This is a selection of the main projects of the *Measurement and Machine Learnin
 
 \
 
-In this project, modern approaches from computational statistics such as machine learning and meta-heuristic optimization algorithms are used to develop new methods for detecting and classifying misspecifications in structural equation models as well as automatically re-specifying measurement models in a fully data-driven manner.
+In this project, modern approaches from computational statistics such as machine learning and meta-heuristic optimization algorithms are used to develop novel methods for detecting and classifying misspecifications in structural equation models as well as automatically re-specifying measurement models in a fully data-driven manner.
+By integrating various nuisance parameters (e.g., sample and model size) as features in the prediction model, the new approach promises to consider their interactions with model fit indices.
+Accordingly, the ML-based model fit evaluation addresses shortcomings in the current practice that often relies on simple rules thumb and fixed cutoffs for fit indices.
 
 :::{#fig1 style="text-align:center;"}
 
@@ -34,7 +36,7 @@ Partsch, M. V., & Goretzko, D. (under review). Detecting model misfit in structu
 
 \
 
-In this project, we develop new data-driven methods to a) investigate measurement invariance more holistically (i.e., with regard to many covariates and without constraining the analysis model a lot), b) address it at the early stages of scale development, c) inform a causal perspective on measurement, and d) ultimately make psychological measurement more robust. 
+In this project, we develop new data-driven methods to a) investigate measurement invariance more holistically (i.e., with regard to many covariates and without constraining the analysis model too much), b) address measurement invariance at the early stages of scale development, c) inform a causal perspective on measurement, and d) ultimately make psychological measurements more robust and generalizable. 
 
 :::{#fig1 style="text-align:center;"}
 
@@ -60,7 +62,8 @@ Goretzko, D., & Sterner, P. (under review). Exploratory Graph Analysis Trees-A N
 
 ## Dimensionality Assessment in Exploratory Factor Analysis
 
-In this project, we combine data simulation and supervised machine learning to create new factor retention criteria that can accurately predict the dimensionality of a latent concept given various data characteristics.
+In this project, we combine extensive data simulations and supervised machine learning to create new factor retention criteria that can accurately predict the dimensionality of a latent concept given various data characteristics.
+In simulation studies, these machine-learning-based approaches show a consistently higher accuracy than common factor retention criteria as well as higher replicability rates for empirical data sets.
 
 **Selected Publications and Preprints:**
 
