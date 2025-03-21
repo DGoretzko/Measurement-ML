@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Measurement & Machine Learning Lab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - people.qmd
+      - href: projects.qmd
+        text: Projects
+      - news.qmd
+  page-footer:
+    center:
+      - text: Measurement and Machine Learning Lab
+        href: index.qmd
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+
+editor: visual
+

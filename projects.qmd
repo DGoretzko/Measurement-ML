@@ -1,0 +1,76 @@
+---
+title: "Current Projects"
+---
+
+This is a selection of the main projects of the *Measurement and Machine Learning Lab*. In addition to these projects, all team members are involved in other projects besides the ones listed below:
+
+\
+
+## Detection and Classification of Misspecifications in Structural Equation Modeling using Machine Learning (funded by the German Research Foundation, DFG GO 3499/1-1)
+
+\
+
+In this project, modern approaches from computational statistics such as machine learning and meta-heuristic optimization algorithms are used to develop new methods for detecting and classifying misspecifications in structural equation models as well as automatically re-specifying measurement models in a fully data-driven manner.
+
+:::{#fig1 style="text-align:center;"}
+
+![](Figures/DALLE_forest.png)\
+
+*Figure 1:* Abstract visualization of a tree-based ML approach taking different nuisance parameters into account when identifying model misspecifications in SEM. Created with DALL-E.
+
+:::
+
+**Selected Publications and Preprints:**
+
+Goretzko, D., Siemund, K., & Sterner, P. (2024). Evaluating Model Fit of Measurement Models in Confirmatory Factor Analysis. Educational and Psychological Measurement. [https://doi.org/10.1177/00131644231163813](https://doi.org/10.1177/00131644231163813)
+
+Partsch, M. V., Sterner, P., & Goretzko, D. (under review). A simulation study on the interaction effects of underfactoring and nuisance parameters on model fit indices. [https://osf.io/preprints/psyarxiv/qy2e3_v1](https://osf.io/preprints/psyarxiv/qy2e3_v1)
+
+Partsch, M. V., & Goretzko, D. (under review). Detecting model misfit in structural equation modeling with machine learning—A proof of concept. [https://osf.io/preprints/psyarxiv/vk2xh](https://osf.io/preprints/psyarxiv/vk2xh)
+
+\ 
+
+## A New Perspective on Measurement Invariance
+
+\
+
+In this project, we develop new data-driven methods to a) investigate measurement invariance more holistically (i.e., with regard to many covariates and without constraining the analysis model a lot), b) address it at the early stages of scale development, c) inform a causal perspective on measurement, and d) ultimately make psychological measurement more robust. 
+
+:::{#fig1 style="text-align:center;"}
+
+![](Figures/egatree.png)\
+
+*Figure 2:* Visualization of the new EGA trees approach that can be used to identify differences in the latent dimensionality as the cause of configural non-invariance.
+
+:::
+
+**Selected Publications and Preprints:**
+
+Sterner, P., & Goretzko, D. (2024) Exploratory Factor Analysis Trees: Evaluating Measurement Invariance Between Multiple Covariates. Structural Equation Modeling: A Multidisciplinary Journal. [https://doi.org/10.1080/10705511.2023.2188573](https://doi.org/10.1080/10705511.2023.2188573) 
+
+Sterner, P., Pargent, F., Deffner, D., & Goretzko, D. (2024) A Causal Framework for the Comparability of Latent Variables. Structural Equation Modeling: A Multidisciplinary Journal. [https://doi.org/10.1080/10705511.2024.2339396](https://doi.org/10.1080/10705511.2024.2339396) 
+
+Sterner, P., de Roover, K., & Goretzko, D. (2025) New Developments in Measurement Invariance Testing-An Overview and Comparison of EFA-based Approaches. Structural Equation Modeling: A Multidisciplinary Journal. [https://doi.org/10.1080/10705511.2024.2393647](https://doi.org/10.1080/10705511.2024.2393647)
+
+Straub, N., Goretzko, D., & Sterner, P. (accepted for publication) Assessing Measurement Invariance with Exploratory Factor Analysis Trees: A Practical Guide. European Journal of Psychological Assessment.
+
+Goretzko, D., & Sterner, P. (under review). Exploratory Graph Analysis Trees-A Network-based Approach to Investigate Measurement Invariance with Numerous Covariates. [https://osf.io/9cx8z](https://osf.io/9cx8z)
+
+\
+
+## Dimensionality Assessment in Exploratory Factor Analysis
+
+In this project, we combine data simulation and supervised machine learning to create new factor retention criteria that can accurately predict the dimensionality of a latent concept given various data characteristics.
+
+**Selected Publications and Preprints:**
+
+Goretzko, D., & Bühner, M. (2020). One model to rule them all? Using machine learning algorithms to determine the number of factors in exploratory factor analysis. Psychological Methods, 25(6), 776–786. [https://doi.org/10.1037/met0000262](https://doi.org/10.1037/met0000262)
+
+Goretzko, D., & Bühner, M. (2022). Factor retention using machine learning with ordinal data. Applied Psychological Measurement, 46(5), 406-421. [https://doi.org/10.1177/01466216221089345](https://doi.org/10.1177/01466216221089345)
+
+Goretzko, D., & Ruscio, J. (2024). The Comparison Data Forest – A new comparison data approach to determine the number of factors in exploratory factor analysis. Behavior Research Methods. [https://doi.org/10.3758/s13428-023-02122-4](https://doi.org/10.3758/s13428-023-02122-4])
+
+Goretzko, D. (2025). How many factors to retain in exploratory factor analysis? A critical overview of factor retention methods. Psychological Methods. [https://doi.org/10.1037/met0000733](https://doi.org/10.1037/met0000733) 
+
+Goretzko, D., Partsch, M. V., & Sterner, P. (accepted for publication). Embrace the heterogeneity in EFA but be transparent about what you do – A commentary on Manapat et al. (2023). Psychological Methods. [https://doi.org/10.1037/met0000759](https://doi.org/10.1037/met0000759)
+

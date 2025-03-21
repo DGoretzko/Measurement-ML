@@ -1,0 +1,170 @@
+---
+title: "People"
+---
+
+## Researchers
+
+::: columns
+::: {.column width="30%"}
+
+**dr. David Goretzko**\
+
+![](Figures/david.jpg){width="50%"}\
+
+[d.goretzko\@uu.nl](mailto:d.goretzko@uu.nl){.email}\
+
+[Google Scholar](https://scholar.google.nl/citations?user=hjMZ9aYAAAAJ&hl=nl&oi=ao) \
+
+[University Homepage](https://www.uu.nl/staff/DGoretzko) 
+
+:::
+
+::: {.column width="70%"}
+
+**Assistant Professor of Methodology and Statistics at Utrecht University** \
+
+Short CV:
+
+  - Since 2022: Assistant Professor "Methodology and Statistics" (Utrecht University)
+  - 2022: Habilitation (LMU Munich)
+  - 2022: Interim Professor "Psychological Methods" (Leipzig University)
+  - 2021 - 2022: Interim Professor "Computational Modeling in Psychology" (LMU Munich)
+  - Since 2021: PI in Project funded by the German Research Foundation (DFG GO 3499/1-1)
+  - 2020: Ph.D. Psychological Methods (LMU Munich)
+  - 2018: M.Sc. Statistics (LMU Munich)
+  - 2016: M.Sc. Psychology (LMU Munich)
+  - 2015: B.Sc. Physics (LMU Munich)
+  - 2014: B.Sc. Psychology (LMU Munich)
+
+
+:::
+:::
+
+\
+
+::: columns
+::: {.column width="30%"}
+
+
+**dr. Melanie Viola Partsch**\
+
+![](Figures/melanie.jpg){width="50%"}\
+
+[m.v.partsch\@uu.nl](mailto:m.v.partsch@uu.nl){.email}\
+
+[Google Scholar](https://scholar.google.nl/citations?user=dAXVhIQAAAAJ&hl=nl&oi=ao) \
+
+[University Homepage](https://www.uu.nl/staff/MVPartsch1) 
+
+:::
+
+::: {.column width="70%"}
+
+**PostDoc in Methodology and Statistics at Utrecht University** \
+
+Short CV:
+
+  - Since 08/2023: Postdoctoral Researcher in DFG Project "Detection and Classification of Misspecifications in Structural Equation Modeling using Machine Learning" (DFG GO 3499/1-1, Utrecht University)
+  - 2023: PhD in Psychology (GESIS & RPTU Kaiserslautern-Landau)
+  - 03/2022-09/2022: Research Associate (University of Education Weingarten)
+  - 03/2017-12/2022: Research Associate (GESIS—Leibniz Institute for the Social Sciences)
+  - 2016: M.Sc. Psychology (University of Mannheim)
+  - 2013: B.Sc. Psychology (University of Ulm)
+
+
+:::
+:::
+
+\
+
+::: columns
+::: {.column width="30%"}
+
+
+**dr. Philpp Sterner**\
+
+![](Figures/philipp.jpg){width="50%"}\
+
+[philipp.sterner\@ruhr-uni-bochum.de](mailto:philipp.sterner@ruhr-uni-bochum.de){.email}\
+
+[Google Scholar](https://scholar.google.com/citations?user=GW3q3JkAAAAJ&hl=de) \
+
+[University Homepage](https://fbz-bochum.de/person/philipp-sterner-m-sc) 
+
+:::
+
+::: {.column width="70%"}
+
+**PostDoc and Statistician at the German Center for Mental Health (DZPG, Ruhr University Bochum)** \
+
+Short CV:
+
+  - 2025 PhD in Psychological Methods (LMU Munich)
+  - Since 2024: (Postdoctoral) Researcher and Statistician at the DZPG
+  - Since 2022: Master Student "Statistics & Data Science" (LMU Munich)
+  - 2021 - 2024 Research Associate and Statistical Consultant for Graduate School *POKAL* (LMU Munich)
+  - 2021: M.Sc. Psychology (LMU Munich)
+  - 2017: B.Sc. Psychology (LMU Munich)
+
+:::
+:::
+
+## Interns & Student Assistants
+
+::: columns
+::: {.column width="30%"}
+
+
+**Caterina Luz Sanchez Steinhagen**\
+
+![](){width="50%"}\
+
+[luz](){.email}\
+
+[Google Scholar]() \
+
+[University Homepage]() 
+
+:::
+
+::: {.column width="70%"}
+
+**Master Thesis Student and Research Intern at the Measurement and Machine Learning Lab** \
+
+Short CV:
+
+  - 2025: M.Sc. Psychology: Learning Sciences and Human Development (LMU Munich)
+  - 2023: M.Sc. School Psychology (LMU Munich)
+
+:::
+:::
+
+\
+
+::: columns
+::: {.column width="30%"}
+
+
+**Tizian Schuhbeck, M.Sc.**\
+
+![](){width="50%"}\
+
+[t.schuhbeck\@gmx.de](mailto:t.schuhbeck@gmx.de){.email}\
+
+[Google Scholar]() \
+
+[University Homepage]() 
+
+:::
+
+::: {.column width="70%"}
+
+**Research Intern at the Measurement and Machine Learning Lab and the Chair for Psychological Methods and Assessment at LMU Munich** \
+
+Short CV:
+
+  - 2025: M.Sc. Mathematics (LMU Munich)
+  - 20XX: B.Sc. Mathematics (LMU Munich)
+
+:::
+:::
