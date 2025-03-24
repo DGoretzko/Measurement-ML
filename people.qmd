@@ -121,7 +121,7 @@ Short CV:
 
 [luz](){.email}\
 
-[Google Scholar]() \
+<!-- [Google Scholar]() \ -->
 
 [University Homepage]() 
 
@@ -151,7 +151,7 @@ Short CV:
 
 [t.schuhbeck\@gmx.de](mailto:t.schuhbeck@gmx.de){.email}\
 
-[Google Scholar]() \
+<!-- [Google Scholar]() \ -->
 
 [University Homepage]() 
 
