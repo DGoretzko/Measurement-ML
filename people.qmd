@@ -7,7 +7,7 @@ title: "People"
 ::: columns
 ::: {.column width="30%"}
 
-**dr. David Goretzko**\
+**Dr. David Goretzko**\
 
 ![](Figures/david.jpg){width="50%"}\
 
@@ -46,7 +46,7 @@ Short CV:
 ::: {.column width="30%"}
 
 
-**dr. Melanie Viola Partsch**\
+**Dr. Melanie Viola Partsch**\
 
 ![](Figures/melanie.jpg){width="50%"}\
 
@@ -81,7 +81,7 @@ Short CV:
 ::: {.column width="30%"}
 
 
-**dr. Philpp Sterner**\
+**Dr. Philpp Sterner**\
 
 ![](Figures/philipp.jpg){width="50%"}\
 
