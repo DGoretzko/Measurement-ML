@@ -12,7 +12,7 @@ This is a selection of the main projects of the *Measurement and Machine Learnin
 
 In this project, modern approaches from computational statistics such as machine learning and meta-heuristic optimization algorithms are used to develop novel methods for detecting and classifying misspecifications in structural equation models as well as automatically re-specifying measurement models in a fully data-driven manner.
 By integrating various nuisance parameters (e.g., sample and model size) as features in the prediction model, the new approach promises to consider their interactions with model fit indices.
-Accordingly, the ML-based model fit evaluation addresses shortcomings in the current practice that often relies on simple rules thumb and fixed cutoffs for fit indices.
+Accordingly, the ML-based model fit evaluation addresses shortcomings in the current practice that often relies on simple rules of thumb combining fixed cutoffs and model fit indices.
 
 :::{#fig1 style="text-align:center;"}
 

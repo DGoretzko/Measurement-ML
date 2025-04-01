@@ -8,7 +8,7 @@ Our research addresses different issues related to the measurement of latent var
 
 Our lab unites psychologists, statisticians, and methodologists who share an interest in measurement topics, latent variable modeling, and psychometrics as well as computational statistics, machine learning, and data science.
 
-If you are interest in collaboration, research internship, or exchanging research ideas in general, feel free to contact us.
+If you are interest in collaborating, a research internship in our lab, or exchanging research ideas more generally, feel free to [contact](mailto:d.goretzko@uu.nl){.email}\ us.
 
-**Contact:**
+<!-- **Contact:** -->
 

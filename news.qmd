@@ -14,7 +14,7 @@ More information can be found on the [conference website](http://methods-berlin.
 
 **Workshop on New Methods for Model Fit Evaluation in SEM**
 
-On September 21 2025, Melanie and David offer a pre-conference workshop at the DPPD 2025 in Kassel with the title *Established and innovative methods to evaluate model fit in structural equation modeling*. This workshop introduces new strategies to evaluate model fit in SEM including dynamic fit cutoffs (McNeish \& Wolf, 2023) and machine learning based approaches (Partsch \& Goretzko, 2024/under review). More information can be found at the [conference website](https://dppd2025.de/programm/pre-conference-workshops/).
+On September 21 2025, Melanie and David offer a pre-conference workshop at the DPPD 2025 in Kassel with the title *Established and innovative methods to evaluate model fit in structural equation modeling*. This workshop introduces new strategies to evaluate model fit in SEM including dynamic fit cutoffs (McNeish \& Wolf, 2023) and machine learning based approaches (Partsch \& Goretzko, 2024/under review). More information can be found on the [conference website](https://dppd2025.de/programm/pre-conference-workshops/).
 
 \ 
 
