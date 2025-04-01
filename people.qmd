@@ -117,13 +117,13 @@ Short CV:
 
 **Caterina Luz Sanchez Steinhagen**\
 
-![](){width="50%"}\
+![](Figures/luz.png){width="50%"}\
 
-[luz](){.email}\
+[luzcaterina01@gmail.com](mailto:luzcaterina01@gmail.com){.email}\
 
 <!-- [Google Scholar]() \ -->
 
-[University Homepage]() 
+<!-- [University Homepage]()  -->
 
 :::
 
@@ -134,7 +134,7 @@ Short CV:
 Short CV:
 
   - 2025: M.Sc. Psychology: Learning Sciences and Human Development (LMU Munich)
-  - 2023: M.Sc. School Psychology (LMU Munich)
+  - 2023: State Examination (M.Sc. equivalent) School Psychology (LMU Munich)
 
 :::
 :::
@@ -153,7 +153,7 @@ Short CV:
 
 <!-- [Google Scholar]() \ -->
 
-[University Homepage]() 
+<!-- [University Homepage]()  -->
 
 :::
 
@@ -164,7 +164,7 @@ Short CV:
 Short CV:
 
   - 2025: M.Sc. Mathematics (LMU Munich)
-  - 20XX: B.Sc. Mathematics (LMU Munich)
+  <!-- - 20XX: B.Sc. Mathematics (LMU Munich) -->
 
 :::
 :::
