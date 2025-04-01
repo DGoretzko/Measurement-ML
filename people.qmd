@@ -138,6 +138,7 @@ Short CV:
 
 Short CV:
 
--   2025: M.Sc. Mathematics (LMU Munich) <!-- - 20XX: B.Sc. Mathematics (LMU Munich) -->
+-   2025: M.Sc. Mathematics (LMU Munich)
+<!-- - 20XX: B.Sc. Mathematics (LMU Munich) -->
 :::
 :::
