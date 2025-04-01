@@ -6,24 +6,21 @@ title: "News and Upcoming Events"
 
 **Workshop on Measurement Invariance Testing**
 
-On September 28 2025, David and Philipp offer a pre-conference workshop at the FGME 2025 in Berlin with the title *New Perspectives on Measurement Invariance Testing*.
-The workshop will cover both newly developed methods for measurement invariance exploration and a causal framework of invariance analyses. 
-More information can be found on the [conference website](http://methods-berlin.com/en/fgme2025_workshops/).
+On September 28 2025, David and Philipp offer a pre-conference workshop at the FGME 2025 in Berlin with the title *New Perspectives on Measurement Invariance Testing*. The workshop will cover both newly developed methods for measurement invariance exploration and a causal framework of invariance analyses. More information can be found on the [conference website](http://methods-berlin.com/en/fgme2025_workshops/).
 
 \
 
 **Workshop on New Methods for Model Fit Evaluation in SEM**
 
-On September 21 2025, Melanie and David offer a pre-conference workshop at the DPPD 2025 in Kassel with the title *Established and innovative methods to evaluate model fit in structural equation modeling*. This workshop introduces new strategies to evaluate model fit in SEM including dynamic fit cutoffs (McNeish \& Wolf, 2023) and machine learning based approaches (Partsch \& Goretzko, 2024/under review). More information can be found on the [conference website](https://dppd2025.de/programm/pre-conference-workshops/).
+On September 21 2025, Melanie and David offer a pre-conference workshop at the DPPD 2025 in Kassel with the title *Established and innovative methods to evaluate model fit in structural equation modeling*. This workshop introduces new strategies to evaluate model fit in SEM including dynamic fit cutoffs (McNeish & Wolf, 2023) and machine learning based approaches (Partsch & Goretzko, 2024/under review). More information can be found on the [conference website](https://dppd2025.de/programm/pre-conference-workshops/).
 
-\ 
+\
 
 **European Congress of Methodology 2025**
 
-On Tuesday, 22nd of July 2025, we (Melanie, Philipp, and David) organize a pre-conference workshop on *New Perspectives on Measurement Invariance Testing* at the EAM 2025 at the University of La Laguna in San Cristobal de La Laguna, Tenerife. More information can be found on the [conference website](https://eam2025.eu).
-We will also present our research in a symposium called "Measurement and Machine Learning" that will be chaired by Melanie. 
+On Tuesday, 22nd of July 2025, we (Melanie, Philipp, and David) organize a pre-conference workshop on *New Perspectives on Measurement Invariance Testing* at the EAM 2025 at the University of La Laguna in San Cristobal de La Laguna, Tenerife. More information can be found on the [conference website](https://eam2025.eu). We will also present our research in a symposium called "Measurement and Machine Learning" that will be chaired by Melanie.
 
-\ 
+\
 
 **Workshop on Machine Learning Methods for Modeling in Psychology**
 
@@ -39,5 +36,4 @@ On Tuesday, May 27 2025, David will give an *Introduction to Supervised Machine 
 
 We are delighted to share that our paper *Embrace the heterogeneity in EFA but be transparent about what you do – A commentary on Manapat et al. (2023)* has been accepted for publication in *Psychological Methods*:
 
-Goretzko, D., Partsch, M. V., & Sterner, P. (accepted for publication). Embrace the heterogeneity in EFA but be transparent about what you do – A commentary on Manapat et al. (2023). Psychological Methods. [https://doi.org/10.1037/met0000759](https://doi.org/10.1037/met0000759)
-
+Goretzko, D., Partsch, M. V., & Sterner, P. (accepted for publication). Embrace the heterogeneity in EFA but be transparent about what you do – A commentary on Manapat et al. (2023). Psychological Methods. <https://doi.org/10.1037/met0000759>

@@ -2,13 +2,10 @@
 title: "Measurement & Machine Learning Lab"
 ---
 
-Welcome to the **Measurement and Machine Learning Lab** (MMLL). 
-Our goal is to improve psychological measurement by combining psychometric approaches and latent variable modeling with modern machine learning and data science tools.
-Our research addresses different issues related to the measurement of latent variables such as dimensionality assessment, measurement invariance, model fit evaluation, model specification, fairness, and replicability or generalizability.
+Welcome to the **Measurement and Machine Learning Lab** (MMLL). Our goal is to improve psychological measurement by combining psychometric approaches and latent variable modeling with modern machine learning and data science tools. Our research addresses different issues related to the measurement of latent variables such as dimensionality assessment, measurement invariance, model fit evaluation, model specification, fairness, and replicability or generalizability.
 
 Our lab unites psychologists, statisticians, and methodologists who share an interest in measurement topics, latent variable modeling, and psychometrics as well as computational statistics, machine learning, and data science.
 
-If you are interest in collaborating, a research internship in our lab, or exchanging research ideas more generally, feel free to [contact](mailto:d.goretzko@uu.nl){.email}\ us.
+If you are interest in collaborating, a research internship in our lab, or exchanging research ideas more generally, feel free to [contact](mailto:d.goretzko@uu.nl){.email} us.
 
 <!-- **Contact:** -->
-
