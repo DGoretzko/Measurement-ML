@@ -124,7 +124,7 @@ Short CV:
 ::: {.column width="30%"}
 **Tizian Schuhbeck, M.Sc.**\
 
-![](){width="50%"}\
+![](Figures/tizian.jpg){width="50%"}\
 
 [t.schuhbeck\@gmx.de](mailto:t.schuhbeck@gmx.de){.email}\
 
@@ -138,7 +138,7 @@ Short CV:
 
 Short CV:
 
--   2025: M.Sc. Mathematics (LMU Munich)
-<!-- - 20XX: B.Sc. Mathematics (LMU Munich) -->
+-   2025: M.Sc. Mathematics (LMU Munich, Thesis: "A Generalized Framework for Pattern Message Passing")
+-   2022: B.Sc. Mathematics (LMU Munich, Thesis: Mathematical Aspects of Pairing Mechanisms in BCS Theory")
 :::
 :::
