@@ -68,7 +68,7 @@ Short CV:
 
 ::: columns
 ::: {.column width="30%"}
-**Dr. Philpp Sterner**\
+**Dr. Philipp Sterner**\
 
 ![](Figures/philipp.jpg){width="50%"}\
 
