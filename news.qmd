@@ -34,6 +34,10 @@ On Tuesday, May 27 2025, David will give an *Introduction to Supervised Machine 
 
 ## New Publications
 
+Our tutorial paper *Assessing Measurement Invariance with Exploratory Factor Analysis Trees: A Practical Guide.* has been accepted for publication in the *European Journal of Psychological Assessment*:
+
+Straub, N., Goretzko, D., & Sterner, P. (2025) Assessing Measurement Invariance with Exploratory Factor Analysis Trees: A Practical Guide. European Journal of Psychological Assessment. <https://doi.org/10.1027/1015-5759/a000898>
+
 We are delighted to share that our paper *Embrace the heterogeneity in EFA but be transparent about what you do – A commentary on Manapat et al. (2023)* has been accepted for publication in *Psychological Methods*:
 
 Goretzko, D., Partsch, M. V., & Sterner, P. (accepted for publication). Embrace the heterogeneity in EFA but be transparent about what you do – A commentary on Manapat et al. (2023). Psychological Methods. <https://doi.org/10.1037/met0000759>

@@ -48,7 +48,7 @@ Sterner, P., Pargent, F., Deffner, D., & Goretzko, D. (2024) A Causal Framework 
 
 Sterner, P., de Roover, K., & Goretzko, D. (2025) New Developments in Measurement Invariance Testing-An Overview and Comparison of EFA-based Approaches. Structural Equation Modeling: A Multidisciplinary Journal. <https://doi.org/10.1080/10705511.2024.2393647>
 
-Straub, N., Goretzko, D., & Sterner, P. (accepted for publication) Assessing Measurement Invariance with Exploratory Factor Analysis Trees: A Practical Guide. European Journal of Psychological Assessment.
+Straub, N., Goretzko, D., & Sterner, P. (2025) Assessing Measurement Invariance with Exploratory Factor Analysis Trees: A Practical Guide. European Journal of Psychological Assessment. <https://doi.org/10.1027/1015-5759/a000898>
 
 Goretzko, D., & Sterner, P. (under review). Exploratory Graph Analysis Trees-A Network-based Approach to Investigate Measurement Invariance with Numerous Covariates. <https://osf.io/9cx8z>
 
