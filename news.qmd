@@ -22,6 +22,13 @@ On Tuesday, 22nd of July 2025, we (Melanie, Philipp, and David) organize a pre-c
 
 \
 
+**Keynote and Workshop at the ICCPAE 2025**
+
+David has been invited to give a keynote speech and a workshop on machine learning in psychological assessment at the 
+*International Conference on Cognitive and Psychological Assessment and Enhancement (ICCPAE 2025)* in Beijing (11/07/2025 - 13/07/2025).
+
+\
+
 **Workshop on Machine Learning Methods for Modeling in Psychology**
 
 As part of the *Statistical Modeling in Psychology* (SMiP) Summer School 2025 (30/06/2025 - 04/07/2025), David and Philipp will provide a workshop on machine learning modeling with a focus on its applicability to psychological research and assessment. Besides covering general aspects of machine learning, approaches for interpretable machine learning and cost-sensitive learning are discussed in the workshop. More information can be found on the [SMiP hompage](https://www.uni-mannheim.de/smip-summerschool/workshops/machine-learning-methods-for-modeling-in-psychology/).
