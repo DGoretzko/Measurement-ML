@@ -22,11 +22,11 @@ In this project, modern approaches from computational statistics such as machine
 
 Goretzko, D., Siemund, K., & Sterner, P. (2024). Evaluating Model Fit of Measurement Models in Confirmatory Factor Analysis. Educational and Psychological Measurement. <https://doi.org/10.1177/00131644231163813>
 
-Partsch, M. V., Sterner, P., & Goretzko, D. (under review). A simulation study on the interaction effects of underfactoring and nuisance parameters on model fit indices. <https://osf.io/preprints/psyarxiv/qy2e3_v1>
+Partsch, M. V., Sterner, P., & Goretzko, D. (accepted for publication). A simulation study on the interaction effects of underfactoring and nuisance parameters on model fit indices. Structural Equation Modeling: A Multidisciplinary Journal. <https://osf.io/preprints/psyarxiv/qy2e3_v1>
 
 Partsch, M. V., & Goretzko, D. (under review). Detecting model misfit in structural equation modeling with machine learning—A proof of concept. <https://osf.io/preprints/psyarxiv/vk2xh>
 
- 
+\
 
 ## A New Perspective on Measurement Invariance
 

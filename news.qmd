@@ -47,4 +47,4 @@ Straub, N., Goretzko, D., & Sterner, P. (2025) Assessing Measurement Invariance 
 
 We are delighted to share that our paper *Embrace the heterogeneity in EFA but be transparent about what you do – A commentary on Manapat et al. (2023)* has been accepted for publication in *Psychological Methods*:
 
-Goretzko, D., Partsch, M. V., & Sterner, P. (accepted for publication). Embrace the heterogeneity in EFA but be transparent about what you do – A commentary on Manapat et al. (2023). Psychological Methods. <https://doi.org/10.1037/met0000759>
+Goretzko, D., Partsch, M. V., & Sterner, P. (2025). Embrace the heterogeneity in EFA but be transparent about what you do – A commentary on Manapat et al. (2023). Psychological Methods. <https://doi.org/10.1037/met0000759>
