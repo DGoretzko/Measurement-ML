@@ -50,7 +50,7 @@ Sterner, P., de Roover, K., & Goretzko, D. (2025) New Developments in Measuremen
 
 Straub, N., Goretzko, D., & Sterner, P. (2025) Assessing Measurement Invariance with Exploratory Factor Analysis Trees: A Practical Guide. European Journal of Psychological Assessment. <https://doi.org/10.1027/1015-5759/a000898>
 
-Goretzko, D., & Sterner, P. (under review). Exploratory Graph Analysis Trees-A Network-based Approach to Investigate Measurement Invariance with Numerous Covariates. <https://osf.io/9cx8z>
+Goretzko, D., & Sterner, P. (accepted for publication). Exploratory Graph Analysis Trees-A Network-based Approach to Investigate Measurement Invariance with Numerous Covariates. Psychological Methods. <https://osf.io/9cx8z>
 
 \
 
@@ -68,4 +68,4 @@ Goretzko, D., & Ruscio, J. (2024). The Comparison Data Forest – A new comparis
 
 Goretzko, D. (2025). How many factors to retain in exploratory factor analysis? A critical overview of factor retention methods. Psychological Methods. <https://doi.org/10.1037/met0000733>
 
-Goretzko, D., Partsch, M. V., & Sterner, P. (accepted for publication). Embrace the heterogeneity in EFA but be transparent about what you do – A commentary on Manapat et al. (2023). Psychological Methods. <https://doi.org/10.1037/met0000759>
+Goretzko, D., Partsch, M. V., & Sterner, P. (2025). Embrace the heterogeneity in EFA but be transparent about what you do – A commentary on Manapat et al. (2023). Psychological Methods. <https://doi.org/10.1037/met0000759>
