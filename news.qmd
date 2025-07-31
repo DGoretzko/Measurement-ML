@@ -49,7 +49,7 @@ Goretzko, D., & Sterner, P. (accepted for publication). Exploratory Graph Analys
 
 Recently, our paper *A Simulation Study on the Interaction Effects of Underfactoring and Nuisance Parameters on Model Fit Indices.* was accepted for publication in *Structural Equation Modeling: A Multidisciplinary Journal*:
 
-Partsch, M. V., Sterner, P., & Goretzko, D. (accepted for publication). A Simulation Study on the Interaction Effects of Underfactoring and Nuisance Parameters on Model Fit Indices. *Structural Equation Modeling: A Multidisciplinary Journal*. Preprint: <https://doi.org/10.31234/osf.io/qy2e3>.
+Partsch, M. V., Sterner, P., & Goretzko, D. (2025). A Simulation Study on the Interaction Effects of Underfactoring and Nuisance Parameters on Model Fit Indices. *Structural Equation Modeling: A Multidisciplinary Journal*. <https://doi.org/10.1080/10705511.2025.2514592>.
 
 \
 
