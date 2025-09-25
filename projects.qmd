@@ -50,7 +50,7 @@ Sterner, P., de Roover, K., & Goretzko, D. (2025) New Developments in Measuremen
 
 Straub, N., Goretzko, D., & Sterner, P. (2025) Assessing Measurement Invariance with Exploratory Factor Analysis Trees: A Practical Guide. European Journal of Psychological Assessment. <https://doi.org/10.1027/1015-5759/a000898>
 
-Goretzko, D., & Sterner, P. (accepted for publication). Exploratory Graph Analysis Trees-A Network-based Approach to Investigate Measurement Invariance with Numerous Covariates. Psychological Methods. <https://osf.io/9cx8z>
+Goretzko, D., & Sterner, P. (2025). Exploratory Graph Analysis Trees-A Network-based Approach to Investigate Measurement Invariance with Numerous Covariates. Psychological Methods. <https://doi.org/10.1037/met0000796>
 
 \
 

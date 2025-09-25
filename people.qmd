@@ -72,7 +72,7 @@ Short CV:
 
 ![](Figures/philipp.jpg){width="50%"}\
 
-[philipp.sterner\@ruhr-uni-bochum.de](mailto:philipp.sterner@ruhr-uni-bochum.de){.email}\
+[philipp.sterner\@tum.de](mailto:philipp.sterner@tum.de){.email}\
 
 [Google Scholar](https://scholar.google.com/citations?user=GW3q3JkAAAAJ&hl=de)\
 
@@ -80,14 +80,15 @@ Short CV:
 :::
 
 ::: {.column width="70%"}
-**PostDoc and Statistician at the German Center for Mental Health (DZPG, Ruhr University Bochum)**\
+**Post-doctoral Researcher at Technical University of Munich**\
 
 Short CV:
 
--   2025 PhD in Psychological Methods (LMU Munich)
--   Since 2024: (Postdoctoral) Researcher and Statistician at the DZPG
--   Since 2022: Master Student "Statistics & Data Science" (LMU Munich)
--   2021 - 2024 Research Associate and Statistical Consultant for Graduate School *POKAL* (LMU Munich)
+-   Since 2025: Postdoctoral Researcher involved in the *Programme for International Student Assessment* [PISA] (TU Munich)
+-   2025: PhD in Psychological Methods (LMU Munich)
+-   2024 - 2025: (Postdoctoral) Researcher and Statistician at the DZPG
+-   2025: M.Sc. Statistics & Data Science (LMU Munich)
+-   2021 - 2024: Research Associate and Statistical Consultant for Graduate School *POKAL* (LMU Munich)
 -   2021: M.Sc. Psychology (LMU Munich)
 -   2017: B.Sc. Psychology (LMU Munich)
 :::
