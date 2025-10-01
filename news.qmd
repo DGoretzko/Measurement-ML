@@ -41,6 +41,12 @@ On Tuesday, May 27 2025, David will give an *Introduction to Supervised Machine 
 
 ## New Publications
 
+Our paper *Quantifying Measurement Non-Invariance Beyond Simple Structure: The Closed Formulas of Universal Effect Size Measures for MI.* was accepted for publication in *Structural Equation Modeling: A Multidisciplinary Journal* and will be published online soon:
+
+Schuhbeck, T. M. B., Sterner, P., & Goretzko, D. (2025). Quantifying Measurement Non-Invariance Beyond Simple Structure: The Closed Formulas of Universal Effect Size Measures for MI. Structural Equation Modeling: A Multidisciplinary Journal. <https://doi.org/10.1080/10705511.2025.2570447>
+
+\
+
 Our paper introducing *Exploratory Graph Analysis Trees (EGA Trees)* has been accepted for publication in *Psychological Methods*:
 
 Goretzko, D., & Sterner, P. (accepted for publication). Exploratory Graph Analysis Trees – A Network-based Approach to Investigate Measurement Invariance with Numerous Covariates. *Psychological Methods*. Preprint: <https://doi.org/10.31234/osf.io/9cx8z>.

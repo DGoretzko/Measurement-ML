@@ -52,6 +52,8 @@ Straub, N., Goretzko, D., & Sterner, P. (2025) Assessing Measurement Invariance 
 
 Goretzko, D., & Sterner, P. (2025). Exploratory Graph Analysis Trees-A Network-based Approach to Investigate Measurement Invariance with Numerous Covariates. Psychological Methods. <https://doi.org/10.1037/met0000796>
 
+Schuhbeck, T. M. B., Sterner, P., & Goretzko, D. (2025). Quantifying Measurement Non-Invariance Beyond Simple Structure: The Closed Formulas of Universal Effect Size Measures for MI. Structural Equation Modeling: A Multidisciplinary Journal. <https://doi.org/10.1080/10705511.2025.2570447>
+
 \
 
 ## Dimensionality Assessment in Exploratory Factor Analysis

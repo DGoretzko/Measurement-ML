@@ -6,7 +6,7 @@ title: "People"
 
 ::: columns
 ::: {.column width="30%"}
-**Dr. David Goretzko**\
+**Prof. Dr. David Goretzko**\
 
 ![](Figures/david.jpg){width="50%"}\
 
@@ -18,11 +18,12 @@ title: "People"
 :::
 
 ::: {.column width="70%"}
-**Assistant Professor of Methodology and Statistics at Utrecht University**\
+**Professor for Psychological Methods at Goethe University University**\
 
 Short CV:
 
--   Since 2022: Assistant Professor "Methodology and Statistics" (Utrecht University)
+-   since 2025: Professor for Psychological Methods (with a Focus on Methods for Psychotherapy Research at <https://www.dynamic-center.net/>) at Goethe University Frankfurt
+-   2022 - 2025: Assistant Professor "Methodology and Statistics" (Utrecht University)
 -   2022: Habilitation (LMU Munich)
 -   2022: Interim Professor "Psychological Methods" (Leipzig University)
 -   2021 - 2022: Interim Professor "Computational Modeling in Psychology" (LMU Munich)
@@ -76,7 +77,7 @@ Short CV:
 
 [Google Scholar](https://scholar.google.com/citations?user=GW3q3JkAAAAJ&hl=de)\
 
-[University Homepage](https://fbz-bochum.de/person/philipp-sterner-m-sc)
+[University Homepage](https://www.lmu.de/psy/de/personen/kontaktseite/kontaktseite_12096.html)
 :::
 
 ::: {.column width="70%"}
