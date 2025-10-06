@@ -10,7 +10,7 @@ title: "People"
 
 ![](Figures/david.jpg){width="50%"}\
 
-[d.goretzko\@uu.nl](mailto:d.goretzko@uu.nl){.email}\
+[goretzko\@psych.uni-frankfurt.de](mailto:goretzko@psych.uni-frankfurt.de){.email}\
 
 [Google Scholar](https://scholar.google.nl/citations?user=hjMZ9aYAAAAJ&hl=nl&oi=ao)\
 
