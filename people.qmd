@@ -8,7 +8,7 @@ title: "People"
 ::: {.column width="30%"}
 **Prof. Dr. David Goretzko**\
 
-![](Figures/david.jpg){width="50%"}\
+![](Figures/david.jpeg){width="50%"}\
 
 [goretzko\@psych.uni-frankfurt.de](mailto:goretzko@psych.uni-frankfurt.de){.email}\
 
