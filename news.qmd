@@ -41,6 +41,12 @@ On Tuesday, May 27 2025, David will give an *Introduction to Supervised Machine 
 
 ## New Publications
 
+We are delighted that our paper *Detecting model misfit in structural equation modeling with machine learning—A proof of concept* was accepted for publication in *Multivariate Behavioral Research* and will be published online soon:
+
+Partsch, M. V., & Goretzko, D. (2025). Detecting model misfit in structural equation modeling with machine learning—A proof of concept. *Multivariate Behavioral Research*. Advance online publication. <https://doi.org/10.1080/00273171.2025.2552304>
+
+\
+
 Our paper *Quantifying Measurement Non-Invariance Beyond Simple Structure: The Closed Formulas of Universal Effect Size Measures for MI.* was accepted for publication in *Structural Equation Modeling: A Multidisciplinary Journal* and will be published online soon:
 
 Schuhbeck, T. M. B., Sterner, P., & Goretzko, D. (2025). Quantifying Measurement Non-Invariance Beyond Simple Structure: The Closed Formulas of Universal Effect Size Measures for MI. Structural Equation Modeling: A Multidisciplinary Journal. <https://doi.org/10.1080/10705511.2025.2570447>
