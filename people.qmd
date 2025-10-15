@@ -1,12 +1,14 @@
 ---
-title: "People"
+title: "Team"
 ---
 
 ## Researchers
 
+### Prof. Dr. David Goretzko
+
 ::: columns
 ::: {.column width="30%"}
-**Prof. Dr. David Goretzko**\
+<!-- **Prof. Dr. David Goretzko**\ -->
 
 ![](Figures/david.jpeg){width="50%"}\
 
@@ -38,9 +40,10 @@ Short CV:
 
 \
 
+### Dr. Melanie Viola Partsch
+
 ::: columns
 ::: {.column width="30%"}
-**Dr. Melanie Viola Partsch**\
 
 ![](Figures/melanie.jpg){width="50%"}\
 
@@ -67,9 +70,10 @@ Short CV:
 
 \
 
+### Dr. Philipp Sterner
+
 ::: columns
 ::: {.column width="30%"}
-**Dr. Philipp Sterner**\
 
 ![](Figures/philipp.jpg){width="50%"}\
 
@@ -95,11 +99,68 @@ Short CV:
 :::
 :::
 
-## Interns & Student Assistants
+\
+
+### Arwin Nemani, M.Sc.
 
 ::: columns
 ::: {.column width="30%"}
-**Caterina Luz Sanchez Steinhagen**\
+
+![](Figures/Arwin.jpg){width="50%"}\
+
+[nemani\@psych.uni-frankfurt.de](mailto:nemani@psych.uni-frankfurt.de){.email}\
+
+[Google Scholar]()\
+
+[University Homepage]()
+:::
+
+::: {.column width="70%"}
+**PhD Candidate and Research Associate at Goethe University Frankfurt**\
+
+Short CV:
+
+-   Since 10/2025: Research Associate in Psychological Methods (with a Focus on Methods for Psychotherapy Research) at Goethe University Frankfurt
+-   Since 2022: PhD Candidate in Psychology (Goethe University Frankfurt)
+-   2022: M.Sc. Psychology (Goethe University Frankfurt)
+-   2020: B.Sc. Psychology (Goethe University Frankfurt)
+:::
+:::
+
+\
+
+### Mareike Ebert, M.Sc.
+
+::: columns
+::: {.column width="30%"}
+
+![](Figures/Mareike.jpg){width="50%"}\
+
+[m.ebert\@psych.uni-frankfurt.de](mailto:m.ebert@psych.uni-frankfurt.de){.email}\
+
+[Google Scholar]()\
+
+[University Homepage]()
+:::
+
+::: {.column width="70%"}
+**PhD Candidate and Research Associate at Goethe University Frankfurt**\
+
+Short CV:
+
+-   Since 10/2025: Research Associate in Psychological Methods (with a Focus on Methods for Psychotherapy Research) at Goethe University Frankfurt
+-   Since 2025: PhD Candidate in Psychology (Goethe University Frankfurt)
+-   2024: M.Sc. Psychology (Goethe University Frankfurt)
+-   2022: B.Sc. Psychology (Goethe University Frankfurt)
+:::
+:::
+
+## Interns & Student Assistants
+
+### Caterina Luz Sanchez Steinhagen, M.Sc.
+
+::: columns
+::: {.column width="30%"}
 
 ![](Figures/luz.png){width="50%"}\
 
@@ -122,9 +183,10 @@ Short CV:
 
 \
 
+### Tizian Schuhbeck, M.Sc.
+
 ::: columns
 ::: {.column width="30%"}
-**Tizian Schuhbeck, M.Sc.**\
 
 ![](Figures/tizian.jpg){width="50%"}\
 

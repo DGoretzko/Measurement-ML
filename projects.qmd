@@ -24,7 +24,7 @@ Goretzko, D., Siemund, K., & Sterner, P. (2024). Evaluating Model Fit of Measure
 
 Partsch, M. V., Sterner, P., & Goretzko, D. (2025). A simulation study on the interaction effects of underfactoring and nuisance parameters on model fit indices. Structural Equation Modeling: A Multidisciplinary Journal. <https://doi.org/10.1080/10705511.2025.2514592>
 
-Partsch, M. V., & Goretzko, D. (accepted for publication). Detecting model misfit in structural equation modeling with machine learning—A proof of concept. Multivariate Behavior Research. <https://osf.io/preprints/psyarxiv/vk2xh>
+Partsch, M. V., & Goretzko, D. (2025). Detecting model misfit in structural equation modeling with machine learning—A proof of concept. Multivariate Behavior Research. <https://doi.org/10.1080/00273171.2025.2552304>
 
 \
 

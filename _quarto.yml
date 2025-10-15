@@ -8,7 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - people.qmd
+      - href: people.qmd
+        text: Team
       - href: projects.qmd
         text: Projects
       - news.qmd
