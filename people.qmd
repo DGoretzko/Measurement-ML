@@ -16,7 +16,7 @@ title: "Team"
 
 [Google Scholar](https://scholar.google.nl/citations?user=hjMZ9aYAAAAJ&hl=nl&oi=ao)\
 
-[University Homepage](https://www.uu.nl/staff/DGoretzko)
+[University Homepage](https://www.psychologie.uni-frankfurt.de/179953070/Prof__Dr__David_Goretzko)
 :::
 
 ::: {.column width="70%"}
@@ -112,7 +112,7 @@ Short CV:
 
 [Google Scholar](https://scholar.google.de/citations?user=X3VbD-EAAAAJ&hl=de&oi=ao)\
 
-[University Homepage]()
+[University Homepage](https://www.psychologie.uni-frankfurt.de/179995687/Arwin_Nemani)
 :::
 
 ::: {.column width="70%"}
@@ -140,7 +140,7 @@ Short CV:
 
 [Google Scholar](https://scholar.google.de/citations?user=oyDbRjYAAAAJ&hl=en&oi=ao)\
 
-[University Homepage]()
+[University Homepage](https://www.psychologie.uni-frankfurt.de/179996127/Mareike_Ebert)
 :::
 
 ::: {.column width="70%"}
