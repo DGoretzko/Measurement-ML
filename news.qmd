@@ -24,8 +24,7 @@ On Tuesday, 22nd of July 2025, we (Melanie, Philipp, and David) organize a pre-c
 
 **Keynote and Workshop at the ICCPAE 2025**
 
-David has been invited to give a keynote speech and a workshop on machine learning in psychological assessment at the 
-*International Conference on Cognitive and Psychological Assessment and Enhancement (ICCPAE 2025)* in Beijing (11/07/2025 - 13/07/2025).
+David has been invited to give a keynote speech and a workshop on machine learning in psychological assessment at the *International Conference on Cognitive and Psychological Assessment and Enhancement (ICCPAE 2025)* in Beijing (11/07/2025 - 13/07/2025).
 
 \
 
@@ -41,7 +40,7 @@ On Tuesday, May 27 2025, David will give an *Introduction to Supervised Machine 
 
 ## New Publications
 
-We are delighted that our paper *Detecting model misfit in structural equation modeling with machine learning—A proof of concept* was accepted for publication in *Multivariate Behavioral Research* and will be published online soon:
+We are delighted that our paper *Detecting model misfit in structural equation modeling with machine learning—A proof of concept* was accepted for publication in *Multivariate Behavioral Research*:
 
 Partsch, M. V., & Goretzko, D. (2025). Detecting model misfit in structural equation modeling with machine learning—A proof of concept. *Multivariate Behavioral Research*. Advance online publication. <https://doi.org/10.1080/00273171.2025.2552304>
 
