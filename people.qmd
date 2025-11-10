@@ -155,6 +155,34 @@ Short CV:
 :::
 :::
 
+\
+
+### Tizian Schuhbeck, M.Sc.
+
+::: columns
+::: {.column width="30%"}
+
+![](Figures/tizian.jpg){width="50%"}\
+
+[t.schuhbeck\@gmx.de](mailto:t.schuhbeck@gmx.de){.email}\
+
+<!-- [Google Scholar]() \ -->
+
+<!-- [University Homepage]()  -->
+:::
+
+::: {.column width="70%"}
+**Research Associate at Goethe University Frankfurt**\
+
+Short CV:
+
+-   Since 11/2025: Research Associate in Psychological Methods (with a Focus on Methods for Psychotherapy Research) at Goethe University Frankfurt
+-   2025: M.Sc. Mathematics (LMU Munich, Thesis: "A Generalized Framework for Pattern Message Passing")
+-   2022: B.Sc. Mathematics (LMU Munich, Thesis: Mathematical Aspects of Pairing Mechanisms in BCS Theory")
+:::
+:::
+
+
 ## Interns & Student Assistants
 
 ### Caterina Luz Sanchez Steinhagen, M.Sc.
@@ -181,28 +209,3 @@ Short CV:
 :::
 :::
 
-\
-
-### Tizian Schuhbeck, M.Sc.
-
-::: columns
-::: {.column width="30%"}
-
-![](Figures/tizian.jpg){width="50%"}\
-
-[t.schuhbeck\@gmx.de](mailto:t.schuhbeck@gmx.de){.email}\
-
-<!-- [Google Scholar]() \ -->
-
-<!-- [University Homepage]()  -->
-:::
-
-::: {.column width="70%"}
-**Research Intern at the Measurement and Machine Learning Lab and the Chair for Psychological Methods and Assessment at LMU Munich**\
-
-Short CV:
-
--   2025: M.Sc. Mathematics (LMU Munich, Thesis: "A Generalized Framework for Pattern Message Passing")
--   2022: B.Sc. Mathematics (LMU Munich, Thesis: Mathematical Aspects of Pairing Mechanisms in BCS Theory")
-:::
-:::
