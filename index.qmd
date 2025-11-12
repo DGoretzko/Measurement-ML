@@ -8,6 +8,6 @@ Our lab unites psychologists, statisticians, and methodologists who share an int
 
 The  lab is led by [Prof. Dr. David Goretzko](https://dgoretzko.github.io/Measurement-ML/people.html#prof.-dr.-david-goretzko) from Goethe University Frankfurt. The MMLL brings together members from his work group in Frankfurt, researchers from other German universities (e.g., [Dr. Philipp Sterner](https://dgoretzko.github.io/Measurement-ML/people.html#dr.-philipp-sterner) from TU Munich), and international partners (e.g., [Dr. Melanie Partsch](https://dgoretzko.github.io/Measurement-ML/people.html#dr.-melanie-viola-partsch) from Utrecht University).
 
-f you are interested in collaborating, pursuing a research internship in our lab, or exchanging research ideas more broadly, please feel free to [contact](mailto:goretzko@psych.uni-frankfurt.de){.email} us.
+If you are interested in collaborating, pursuing a research internship in our lab, or exchanging research ideas more broadly, please feel free to [contact](mailto:goretzko@psych.uni-frankfurt.de){.email} us.
 
 <!-- **Contact:** -->
