@@ -10,7 +10,7 @@ title: "Team"
 ::: {.column width="30%"}
 <!-- **Prof. Dr. David Goretzko**\ -->
 
-![](Figures/david2.JPG){width="80%"}\
+![](Figures/david2.jpg){width="80%"}\
 
 [goretzko\@psych.uni-frankfurt.de](mailto:goretzko@psych.uni-frankfurt.de){.email}\
 
