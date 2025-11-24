@@ -6,7 +6,7 @@ title: "Team"
 
 ### Prof. Dr. David Goretzko
 
-::: columns
+::::: columns
 ::: {.column width="30%"}
 <!-- **Prof. Dr. David Goretzko**\ -->
 
@@ -36,15 +36,14 @@ Short CV:
 -   2015: B.Sc. Physics (LMU Munich)
 -   2014: B.Sc. Psychology (LMU Munich)
 :::
-:::
+:::::
 
 \
 
 ### Dr. Melanie Viola Partsch
 
-::: columns
+::::: columns
 ::: {.column width="30%"}
-
 ![](Figures/melanie.jpg){width="50%"}\
 
 [m.v.partsch\@uu.nl](mailto:m.v.partsch@uu.nl){.email}\
@@ -66,15 +65,14 @@ Short CV:
 -   2016: M.Sc. Psychology (University of Mannheim)
 -   2013: B.Sc. Psychology (University of Ulm)
 :::
-:::
+:::::
 
 \
 
 ### Dr. Philipp Sterner
 
-::: columns
+::::: columns
 ::: {.column width="30%"}
-
 ![](Figures/philipp.jpg){width="50%"}\
 
 [philipp.sterner\@tum.de](mailto:philipp.sterner@tum.de){.email}\
@@ -89,7 +87,7 @@ Short CV:
 
 Short CV:
 
--   Since 2025: Postdoctoral Researcher involved in the *Programme for International Student Assessment* [PISA] (TU Munich)
+-   Since 2025: Postdoctoral Researcher involved in the *Programme for International Student Assessment* \[PISA\] (TU Munich)
 -   2025: PhD in Psychological Methods (LMU Munich)
 -   2024 - 2025: (Postdoctoral) Researcher and Statistician at the DZPG
 -   2025: M.Sc. Statistics & Data Science (LMU Munich)
@@ -97,15 +95,14 @@ Short CV:
 -   2021: M.Sc. Psychology (LMU Munich)
 -   2017: B.Sc. Psychology (LMU Munich)
 :::
-:::
+:::::
 
 \
 
 ### Arwin Nemani, M.Sc.
 
-::: columns
+::::: columns
 ::: {.column width="30%"}
-
 ![](Figures/Arwin.jpg){width="50%"}\
 
 [nemani\@psych.uni-frankfurt.de](mailto:nemani@psych.uni-frankfurt.de){.email}\
@@ -125,15 +122,14 @@ Short CV:
 -   2022: M.Sc. Psychology (Goethe University Frankfurt)
 -   2020: B.Sc. Psychology (Goethe University Frankfurt)
 :::
-:::
+:::::
 
 \
 
 ### Mareike Ebert, M.Sc.
 
-::: columns
+::::: columns
 ::: {.column width="30%"}
-
 ![](Figures/Mareike.jpg){width="50%"}\
 
 [m.ebert\@psych.uni-frankfurt.de](mailto:m.ebert@psych.uni-frankfurt.de){.email}\
@@ -153,18 +149,17 @@ Short CV:
 -   2024: M.Sc. Psychology (Goethe University Frankfurt)
 -   2022: B.Sc. Psychology (Goethe University Frankfurt)
 :::
-:::
+:::::
 
 \
 
 ### Tizian Schuhbeck, M.Sc.
 
-::: columns
+::::: columns
 ::: {.column width="30%"}
-
 ![](Figures/tizian.jpg){width="50%"}\
 
-[t.schuhbeck\@gmx.de](mailto:t.schuhbeck@gmx.de){.email}\
+[schuhbeck\@psych.uni-frankfurt.de](mailto:schuhbeck@psych.uni-frankfurt.de){.email}\
 
 <!-- [Google Scholar]() \ -->
 
@@ -180,16 +175,14 @@ Short CV:
 -   2025: M.Sc. Mathematics (LMU Munich, Thesis: "A Generalized Framework for Pattern Message Passing")
 -   2022: B.Sc. Mathematics (LMU Munich, Thesis: Mathematical Aspects of Pairing Mechanisms in BCS Theory")
 :::
-:::
-
+:::::
 
 ## Interns & Student Assistants
 
 ### Caterina Luz Sanchez Steinhagen, M.Sc.
 
-::: columns
+::::: columns
 ::: {.column width="30%"}
-
 ![](Figures/luz.png){width="50%"}\
 
 [luzcaterina01\@gmail.com](mailto:luzcaterina01@gmail.com){.email}\
@@ -207,5 +200,4 @@ Short CV:
 -   2025: M.Sc. Psychology: Learning Sciences and Human Development (LMU Munich)
 -   2023: State Examination (M.Sc. equivalent) School Psychology (LMU Munich)
 :::
-:::
-
+:::::
