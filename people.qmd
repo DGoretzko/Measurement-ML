@@ -10,7 +10,7 @@ title: "Team"
 ::: {.column width="30%"}
 <!-- **Prof. Dr. David Goretzko**\ -->
 
-![](Figures/david.jpeg){width="50%"}\
+![](Figures/david2.JPG){width="80%"}\
 
 [goretzko\@psych.uni-frankfurt.de](mailto:goretzko@psych.uni-frankfurt.de){.email}\
 
@@ -44,7 +44,7 @@ Short CV:
 
 ::::: columns
 ::: {.column width="30%"}
-![](Figures/melanie.jpg){width="50%"}\
+![](Figures/melanie.jpg){width="80%"}\
 
 [m.v.partsch\@uu.nl](mailto:m.v.partsch@uu.nl){.email}\
 
@@ -73,7 +73,7 @@ Short CV:
 
 ::::: columns
 ::: {.column width="30%"}
-![](Figures/philipp.jpg){width="50%"}\
+![](Figures/philipp.jpg){width="80%"}\
 
 [philipp.sterner\@tum.de](mailto:philipp.sterner@tum.de){.email}\
 
@@ -103,7 +103,7 @@ Short CV:
 
 ::::: columns
 ::: {.column width="30%"}
-![](Figures/Arwin.jpg){width="50%"}\
+![](Figures/Arwin.jpg){width="80%"}\
 
 [nemani\@psych.uni-frankfurt.de](mailto:nemani@psych.uni-frankfurt.de){.email}\
 
@@ -130,7 +130,7 @@ Short CV:
 
 ::::: columns
 ::: {.column width="30%"}
-![](Figures/Mareike.jpg){width="50%"}\
+![](Figures/Mareike.jpg){width="80%"}\
 
 [m.ebert\@psych.uni-frankfurt.de](mailto:m.ebert@psych.uni-frankfurt.de){.email}\
 
@@ -157,7 +157,7 @@ Short CV:
 
 ::::: columns
 ::: {.column width="30%"}
-![](Figures/tizian.jpg){width="50%"}\
+![](Figures/tizian.jpg){width="80%"}\
 
 [schuhbeck\@psych.uni-frankfurt.de](mailto:schuhbeck@psych.uni-frankfurt.de){.email}\
 
@@ -183,7 +183,7 @@ Short CV:
 
 ::::: columns
 ::: {.column width="30%"}
-![](Figures/luz.png){width="50%"}\
+![](Figures/luz.png){width="80%"}\
 
 [luzcaterina01\@gmail.com](mailto:luzcaterina01@gmail.com){.email}\
 
