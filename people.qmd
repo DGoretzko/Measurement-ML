@@ -163,7 +163,7 @@ Short CV:
 
 <!-- [Google Scholar]() \ -->
 
-<!-- [University Homepage]()  -->
+[University Homepage](https://www.psychologie.uni-frankfurt.de/181004806/Tizian_Schuhbeck)
 :::
 
 ::: {.column width="70%"}
