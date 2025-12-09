@@ -26,6 +26,8 @@ Partsch, M. V., Sterner, P., & Goretzko, D. (2025). A simulation study on the in
 
 Partsch, M. V., & Goretzko, D. (2025). Detecting model misfit in structural equation modeling with machine learning—A proof of concept. Multivariate Behavior Research. <https://doi.org/10.1080/00273171.2025.2552304>
 
+Goretzko, D., & Partsch, M. V. (2025). Predicting measurement model misfit with machine learning while accounting for nuisance parameters --- An illustration. Psychological Test Adaptation and Development. <https://doi.org/10.1027/2698-1866/a000111>
+
 \
 
 ## A New Perspective on Measurement Invariance

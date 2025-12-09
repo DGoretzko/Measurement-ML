@@ -54,7 +54,7 @@ Schuhbeck, T. M. B., Sterner, P., & Goretzko, D. (2025). Quantifying Measurement
 
 Our paper introducing *Exploratory Graph Analysis Trees (EGA Trees)* has been accepted for publication in *Psychological Methods*:
 
-Goretzko, D., & Sterner, P. (accepted for publication). Exploratory Graph Analysis Trees – A Network-based Approach to Investigate Measurement Invariance with Numerous Covariates. *Psychological Methods*. Preprint: <https://doi.org/10.31234/osf.io/9cx8z>.
+Goretzko, D., & Sterner, P. (2025). Exploratory Graph Analysis Trees – A Network-based Approach to Investigate Measurement Invariance with Numerous Covariates. *Psychological Methods*. Preprint: <https://doi.org/10.31234/osf.io/9cx8z>.
 
 \
 
