@@ -99,7 +99,7 @@ Short CV:
 
 \
 
-### Arwin Nemani, M.Sc.
+### Dr. Arwin Nemani
 
 ::::: columns
 ::: {.column width="30%"}
@@ -118,7 +118,7 @@ Short CV:
 Short CV:
 
 -   Since 10/2025: Research Associate in Psychological Methods (with a Focus on Methods for Psychotherapy Research) at Goethe University Frankfurt
--   Since 2022: PhD Candidate in Psychology (Goethe University Frankfurt)
+-   2025: PhD in Psychology (Goethe University Frankfurt)
 -   2022: M.Sc. Psychology (Goethe University Frankfurt)
 -   2020: B.Sc. Psychology (Goethe University Frankfurt)
 :::
