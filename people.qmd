@@ -103,7 +103,7 @@ Short CV:
 
 ::::: columns
 ::: {.column width="30%"}
-![](Figures/Arwin.jpg){width="80%"}\
+<!-- ![](Figures/Arwin.jpg){width="80%"}\ -->
 
 [nemani\@psych.uni-frankfurt.de](mailto:nemani@psych.uni-frankfurt.de){.email}\
 
