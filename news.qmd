@@ -4,6 +4,18 @@ title: "News and Upcoming Events"
 
 ## Workshops & Talks
 
+**GESIS Summer School in Survey Methodology: Week-long Workshop on Latent Variable Modeling**
+
+From August 3 to August 7 2026, Melanie and David will teach a workshop on latent variable modeling in the context of survey research at the *GESIS Summer School in Survey Methodology* in Cologne. More information can be found on the [website](https://www.gesis.org/en/gesis-training/what-we-offer/summer-school-in-survey-methodology) of GESIS.
+
+\
+
+**Introduction to Machine Learning at the University of Padova**
+
+On Friday, July 10 2026, David will give an *Introduction to Supervised Machine Learning* at the University of Trento as part of the ARCA Summer School. More information can be found on the [website](https://www.unipd.it/en/arca-summer-schools) of the University of Padova.
+
+\
+
 **Workshop on Measurement Invariance Testing**
 
 On September 28 2025, David and Philipp offer a pre-conference workshop at the FGME 2025 in Berlin with the title *New Perspectives on Measurement Invariance Testing*. The workshop will cover both newly developed methods for measurement invariance exploration and a causal framework of invariance analyses. More information can be found on the [conference website](http://methods-berlin.com/en/fgme2025_workshops/).
@@ -36,9 +48,15 @@ As part of the *Statistical Modeling in Psychology* (SMiP) Summer School 2025 (3
 
 **Introduction to Machine Learning at the University Trento (Department of Psychology and Cognitive Science)**
 
-On Tuesday, May 27 2025, David will give an *Introduction to Supervised Machine Learning in Psychology* at the University of Trento. The talk (+ workshop-style exercise) will focus on key concepts of machine learning modeling - such as resampling strategies, hyperparameter tuning, and performance evaluation. More information can be found on the [website](https://beyond.dipsco.unitn.it/home-page) of the University of Trento .
+On Tuesday, May 27 2025, David will give an *Introduction to Supervised Machine Learning in Psychology* at the University of Trento. The talk (+ workshop-style exercise) will focus on key concepts of machine learning modeling - such as resampling strategies, hyperparameter tuning, and performance evaluation. More information can be found on the [website](https://beyond.dipsco.unitn.it/home-page) of the University of Trento.
 
 ## New Publications
+
+Our paper on the use of EFA and CFA trees for measurement invariance exploration in organizational research was accepted for publication in the *Journal of Applied Psychology*:
+
+Goretzko, D., & Sterner, P. (2025). Investigating Measurement Invariance for Multiple Covariates in Organizational Research using EFA and CFA Trees. *Journal of Applied Psychology*. <https://doi.org/10.1037/apl0001368>
+
+\
 
 We are delighted that our paper *Detecting model misfit in structural equation modeling with machine learning—A proof of concept* was accepted for publication in *Multivariate Behavioral Research*:
 
