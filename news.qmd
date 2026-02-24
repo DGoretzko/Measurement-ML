@@ -54,7 +54,7 @@ On Tuesday, May 27 2025, David will give an *Introduction to Supervised Machine 
 
 Our paper on the use of EFA and CFA trees for measurement invariance exploration in organizational research was accepted for publication in the *Journal of Applied Psychology*:
 
-Goretzko, D., & Sterner, P. (2025). Investigating Measurement Invariance for Multiple Covariates in Organizational Research using EFA and CFA Trees. *Journal of Applied Psychology*. <https://doi.org/10.1037/apl0001368>
+Goretzko, D., Howard, M. C., & Sterner, P. (2025). Investigating Measurement Invariance for Multiple Covariates in Organizational Research using EFA and CFA Trees. *Journal of Applied Psychology*. <https://doi.org/10.1037/apl0001368>
 
 \
 
