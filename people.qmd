@@ -20,16 +20,16 @@ title: "Team"
 :::
 
 ::: {.column width="70%"}
-**Professor for Psychological Methods at Goethe University Frankfurt**\
+**Professor of Psychological Methods at Goethe University Frankfurt**\
 
 Short CV:
 
--   since 2025: Professor for Psychological Methods (with a Focus on Methods for Psychotherapy Research at <https://www.dynamic-center.net/>) at Goethe University Frankfurt
+-   since 2025: Professor of Psychological Methods (with a Focus on Methods for Psychotherapy Research at <https://www.dynamic-center.net/>) at Goethe University Frankfurt
 -   2022 - 2025: Assistant Professor "Methodology and Statistics" (Utrecht University)
 -   2022: Habilitation (LMU Munich)
 -   2022: Interim Professor "Psychological Methods" (Leipzig University)
 -   2021 - 2022: Interim Professor "Computational Modeling in Psychology" (LMU Munich)
--   Since 2021: PI in Project funded by the German Research Foundation (DFG GO 3499/1-1)
+-   2021 - 2025: PI in Project funded by the German Research Foundation (DFG GO 3499/1-1)
 -   2020: Ph.D. Psychological Methods (LMU Munich)
 -   2018: M.Sc. Statistics (LMU Munich)
 -   2016: M.Sc. Psychology (LMU Munich)
@@ -58,7 +58,9 @@ Short CV:
 
 Short CV:
 
--   Since 08/2023: Postdoctoral Researcher in DFG Project "Detection and Classification of Misspecifications in Structural Equation Modeling using Machine Learning" (DFG GO 3499/1-1, Utrecht University)
+-   Since 01/2026: Postdoctoral Researcher in "Methodology and Statistics" at Urecht University
+-   03/2026: Research Stay at the "Statistics and Data Science" Group at the University of Basel
+-   08/2023-12/2025: Postdoctoral Researcher in DFG Project "Detection and Classification of Misspecifications in Structural Equation Modeling using Machine Learning" (DFG GO 3499/1-1, Utrecht University)
 -   2023: PhD in Psychology (GESIS & RPTU Kaiserslautern-Landau)
 -   03/2022-09/2022: Research Associate (University of Education Weingarten)
 -   03/2017-12/2022: Research Associate (GESIS—Leibniz Institute for the Social Sciences)
@@ -89,7 +91,7 @@ Short CV:
 
 -   Since 2025: Postdoctoral Researcher involved in the *Programme for International Student Assessment* \[PISA\] (TU Munich)
 -   2025: PhD in Psychological Methods (LMU Munich)
--   2024 - 2025: (Postdoctoral) Researcher and Statistician at the DZPG
+-   2024 - 2025: (Postdoctoral) Researcher and Statistician at the DZPG in Bochum
 -   2025: M.Sc. Statistics & Data Science (LMU Munich)
 -   2021 - 2024: Research Associate and Statistical Consultant for Graduate School *POKAL* (LMU Munich)
 -   2021: M.Sc. Psychology (LMU Munich)
