@@ -58,9 +58,9 @@ Short CV:
 
 Short CV:
 
--   Since 01/2026: Postdoctoral Researcher in "Methodology and Statistics" at Urecht University
--   03/2026: Research Stay at the "Statistics and Data Science" Group at the University of Basel
--   08/2023-12/2025: Postdoctoral Researcher in DFG Project "Detection and Classification of Misspecifications in Structural Equation Modeling using Machine Learning" (DFG GO 3499/1-1, Utrecht University)
+-   From 04/2026: Postdoctoral Researcher in "Methodology and Statistics" at Utrecht University
+-   02/2026-03/2026: Research Stay at the "Statistics and Data Science" Group at the University of Basel
+-   08/2023-01/2026: Postdoctoral Researcher in DFG Project "Detection and Classification of Misspecifications in Structural Equation Modeling using Machine Learning" (DFG GO 3499/1-1, Utrecht University)
 -   2023: PhD in Psychology (GESIS & RPTU Kaiserslautern-Landau)
 -   03/2022-09/2022: Research Associate (University of Education Weingarten)
 -   03/2017-12/2022: Research Associate (GESIS—Leibniz Institute for the Social Sciences)
