@@ -28,3 +28,4 @@ Sterner, P., Pargent, F., & Goretzko, D. (2026). Don’t let MI be misunderstood
 
 Goretzko, D., Howard, M. C., & Sterner, P. (2026). Investigating Measurement Invariance for Multiple Covariates in Organizational Research using EFA and CFA Trees. Journal of Applied Psychology. <https://doi.org/10.1037/apl0001368>
 
+Sterner, P., & Goretzko, D. (under review) The mismeasure of comparability: Non-invariance and nomological validity in cross-cultural psychology—A commentary on Kusano et al.(2025). PsyArXiv Preprint. <https://doi.org/10.31234/osf.io/pnu8w_v2>

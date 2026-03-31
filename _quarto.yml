@@ -10,7 +10,7 @@ website:
         text: Home
       - href: people.qmd
         text: Team
-      - text: Projects
+      - text: Research
         menu:
           - text: "Model Fit"
             href: modelfit.qmd
@@ -18,6 +18,8 @@ website:
             href: mi.qmd
           - text: "Dimensionality Assessment"
             href: dim.qmd
+          - text: "ML in Psychology"
+            href: ml.qmd
       - news.qmd
   page-footer:
     #center:

@@ -16,9 +16,11 @@ Goretzko, D., Siemund, K., & Sterner, P. (2024). Evaluating Model Fit of Measure
 
 Partsch, M. V., Sterner, P., & Goretzko, D. (2025). A simulation study on the interaction effects of underfactoring and nuisance parameters on model fit indices. Structural Equation Modeling: A Multidisciplinary Journal. <https://doi.org/10.1080/10705511.2025.2514592>
 
-Partsch, M. V., & Goretzko, D. (2025). Detecting model misfit in structural equation modeling with machine learning—A proof of concept. Multivariate Behavior Research. <https://doi.org/10.1080/00273171.2025.2552304>
+Partsch, M. V., & Goretzko, D. (2025). Detecting model misfit in structural equation modeling with machine learning—A proof of concept. Multivariate Behavioral Research. <https://doi.org/10.1080/00273171.2025.2552304>
 
 Goretzko, D., & Partsch, M. V. (2025). Predicting measurement model misfit with machine learning while accounting for nuisance parameters --- An illustration. Psychological Test Adaptation and Development. <https://doi.org/10.1027/2698-1866/a000111>
 
 Partsch, M. V., & Goretzko, D. (2025). A Machine Learning Pipeline to Classify the Type and Severity of Misspecifications in Latent Measurement Models. Preprint at <https://doi.org/10.31234/osf.io/84ftk_v1>.
+
+Goretzko, D., & Wetzel, E. (2026). Stop Using Fixed Cutoffs to Evaluate Latent Variable Models! European Journal of Psychological Assessment. <https://doi.org/10.1027/1015-5759/a000943>
 
