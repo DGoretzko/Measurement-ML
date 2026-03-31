@@ -10,9 +10,9 @@ From August 3 to August 7 2026, Melanie and David will teach a workshop on laten
 
 \
 
-**Introduction to Machine Learning at the University of Padova**
+**Introductory Workshop on Machine Learning at the University of Padova**
 
-On Friday, July 10 2026, David will give an *Introduction to Supervised Machine Learning* at the University of Trento as part of the ARCA Summer School. More information can be found on the [website](https://www.unipd.it/en/arca-summer-schools) of the University of Padova.
+On Friday, July 10 2026, David will give an *Introduction to Supervised Machine Learning* at the University of Padova as part of the ARCA Summer School. More information can be found on the [website](https://www.unipd.it/en/arca-summer-schools) of the University of Padova.
 
 \
 

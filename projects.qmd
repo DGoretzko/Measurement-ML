@@ -60,7 +60,7 @@ Schuhbeck, T. M. B., Sterner, P., & Goretzko, D. (2025). Quantifying Measurement
 
 Sterner, P., Pargent, F., & Goretzko, D. (2026). Don’t let MI be misunderstood: Measurement invariance is more than a statistical assumption. Current Research in Ecological and Social Psychology. <https://doi.org/10.1016/j.cresp.2025.100261>
 
-Goretzko, D., Howard, M. C., & Sterner, P. (2025). Investigating Measurement Invariance for Multiple Covariates in Organizational Research using EFA and CFA Trees. Journal of Applied Psychology. <https://doi.org/10.1037/apl0001368>
+Goretzko, D., Howard, M. C., & Sterner, P. (2026). Investigating Measurement Invariance for Multiple Covariates in Organizational Research using EFA and CFA Trees. Journal of Applied Psychology. <https://doi.org/10.1037/apl0001368>
 
 \
 

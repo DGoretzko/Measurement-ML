@@ -3,20 +3,26 @@ project:
   output-dir: docs
 
 website:
-  title: "Measurement & Machine Learning Lab"
+  title: "![](/Figures/MeasurementMachineLearningLab.png){width=150px}"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: people.qmd
         text: Team
-      - href: projects.qmd
-        text: Projects
+      - text: Projects
+        menu:
+          - text: "Model Fit"
+            href: modelfit.qmd
+          - text: "Measurement Invariance"
+            href: mi.qmd
+          - text: "Dimensionality Assessment"
+            href: dim.qmd
       - news.qmd
   page-footer:
-    center:
-      - text: Measurement and Machine Learning Lab
-        href: index.qmd
+    #center:
+    center: "[Measurement and Machine Learning Lab](index.qmd)"
+    right: "![](/Figures/MMLLab.png){width=70px}"
         
 format:
   html:
