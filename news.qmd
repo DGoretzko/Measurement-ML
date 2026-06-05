@@ -4,9 +4,27 @@ title: "News and Upcoming Events"
 
 ## Workshops & Talks
 
+**Introductory Workshop on Machine Learning at the Early Career Researcher Retreat of the Methods and Evaluation Section of the German Psychological Society (DGPs)**
+
+The Methods and Evaluation Section of the German Psychological Society (DGPs) is organizing an ECR retreat for methodologists from October 7–9, 2026, in Frankfurt. As part of the retreat program, David will teach a workshop titled *Introduction to Supervised Machine Learning*.
+
+\
+
+**Bi-annual Congress of the German Psychological Society (DGPs) in Luxembourg**
+
+On September 7, we (Melanie, Luz, Tizian, Philipp, Mareike, and David) will present our research at the DGPs Congress 2026 in Luxembourg. Philipp will chair the symposium titled "New Insights from Measurement and Machine Learning for Applied Psychology" that provides an overview of our different research topics including model fit evaluation, measurement invariance testing, and factor retention.
+
+\
+
 **GESIS Summer School in Survey Methodology: Week-long Workshop on Latent Variable Modeling**
 
 From August 3 to August 7 2026, Melanie and David will teach a workshop on latent variable modeling in the context of survey research at the *GESIS Summer School in Survey Methodology* in Cologne. More information can be found on the [website](https://www.gesis.org/en/gesis-training/what-we-offer/summer-school-in-survey-methodology) of GESIS.
+
+\
+
+**International Meeting of the Psychometric Society (IMPS) 2026 in Seoul**
+
+From July 21-24, the IMPS takes place in Seoul, South Korea. We (Melanie, Mareike, and David; together with researchers from LMU Munich and the University of Basel) will present our research in a symposium called "Bridging psychometrics and modern data science: Applications in machine learning and causal inference" that will be chaired by Melanie.
 
 \
 

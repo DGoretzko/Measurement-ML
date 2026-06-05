@@ -169,13 +169,37 @@ Short CV:
 :::
 
 ::: {.column width="70%"}
-**Research Associate at Goethe University Frankfurt**\
+**PhD Candidate and Research Associate at Goethe University Frankfurt**\
 
 Short CV:
 
 -   Since 11/2025: Research Associate in Psychological Methods (with a Focus on Methods for Psychotherapy Research) at Goethe University Frankfurt
 -   2025: M.Sc. Mathematics (LMU Munich, Thesis: "A Generalized Framework for Pattern Message Passing")
 -   2022: B.Sc. Mathematics (LMU Munich, Thesis: Mathematical Aspects of Pairing Mechanisms in BCS Theory")
+:::
+:::::
+
+### Jan-Marten Ohlenmacher, M.Sc.
+
+::::: columns
+::: {.column width="30%"}
+![](Figures/jan.png){width="80%"}\
+
+[ohlenmacher@med.uni-frankfurt.de](mailto:ohlenmacher@med.uni-frankfurt.de){.email}\
+
+<!-- [Google Scholar]() \ -->
+
+[University Homepage](https://mind-child.uni-frankfurt.de/team/)
+:::
+
+::: {.column width="70%"}
+**PhD Candidate and Research Associate at Goethe University Frankfurt (University Clinic)**\
+
+Short CV:
+
+-   Since 10/2024: Research Associate at the Department of Child and Adolescent Psychiatry at Goethe University Frankfurt (MIND CHILD)
+-   2023: M.Sc. Psychology: Individual Differences and Assessment (Tilburg University)
+-   2021: B.Sc. Psychology (Tilburg University)
 :::
 :::::
 
