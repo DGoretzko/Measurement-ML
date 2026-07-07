@@ -219,7 +219,7 @@ Short CV:
 :::
 
 ::: {.column width="70%"}
-**Master Thesis Student and Research Intern at the Measurement and Machine Learning Lab**\
+**Research Intern at the Measurement and Machine Learning Lab**\
 
 Short CV:
 
@@ -227,3 +227,30 @@ Short CV:
 -   2023: State Examination (M.Sc. equivalent) School Psychology (LMU Munich)
 :::
 :::::
+
+### Alessandro Busato, B.Sc.
+
+::::: columns
+::: {.column width="30%"}
+![](Figures/alessandro.png){width="80%"}\
+
+[alessandro.busato\@uni-oldenburg.de](mailto:alessandro.busato@uni-oldenburg.de){.email}\
+
+<!-- [Google Scholar]() \ -->
+
+<!-- [University Homepage]()  -->
+:::
+
+::: {.column width="70%"}
+**Master Thesis Student and Research Intern at the Measurement and Machine Learning Lab**\
+
+Short CV:
+
+-   since 10/2024: M.Sc. Neurocognitive Psychology (University of Oldenburg)
+-   2024: B.Sc. Psychology (Sapienza University of Rome)
+:::
+:::::
+
+## Alumni
+
+
