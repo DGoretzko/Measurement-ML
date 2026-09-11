@@ -24,17 +24,17 @@ title: "Team"
 
 Short CV:
 
--   since 2025: Professor of Psychological Methods (with a Focus on Methods for Psychotherapy Research at <https://www.dynamic-center.net/>) at Goethe University Frankfurt
--   2022 - 2025: Assistant Professor "Methodology and Statistics" (Utrecht University)
--   2022: Habilitation (LMU Munich)
--   2022: Interim Professor "Psychological Methods" (Leipzig University)
--   2021 - 2022: Interim Professor "Computational Modeling in Psychology" (LMU Munich)
--   2021 - 2025: PI in Project funded by the German Research Foundation (DFG GO 3499/1-1)
--   2020: Ph.D. Psychological Methods (LMU Munich)
--   2018: M.Sc. Statistics (LMU Munich)
--   2016: M.Sc. Psychology (LMU Munich)
--   2015: B.Sc. Physics (LMU Munich)
--   2014: B.Sc. Psychology (LMU Munich)
+- since 2025: Professor of Psychological Methods (with a Focus on Methods for Psychotherapy Research at <https://www.dynamic-center.net/>) at Goethe University Frankfurt
+- 2022 - 2025: Assistant Professor "Methodology and Statistics" (Utrecht University)
+- 2022: Habilitation (LMU Munich)
+- 2022: Interim Professor "Psychological Methods" (Leipzig University)
+- 2021 - 2022: Interim Professor "Computational Modeling in Psychology" (LMU Munich)
+- 2021 - 2025: PI in Project funded by the German Research Foundation (DFG GO 3499/1-1)
+- 2020: Ph.D. Psychological Methods (LMU Munich)
+- 2018: M.Sc. Statistics (LMU Munich)
+- 2016: M.Sc. Psychology (LMU Munich)
+- 2015: B.Sc. Physics (LMU Munich)
+- 2014: B.Sc. Psychology (LMU Munich)
 :::
 :::::
 
@@ -58,14 +58,14 @@ Short CV:
 
 Short CV:
 
--   From 04/2026: Postdoctoral Researcher in "Methodology and Statistics" at Utrecht University
--   02/2026-03/2026: Research Stay at the "Statistics and Data Science" Group at the University of Basel
--   08/2023-01/2026: Postdoctoral Researcher in DFG Project "Detection and Classification of Misspecifications in Structural Equation Modeling using Machine Learning" (DFG GO 3499/1-1, Utrecht University)
--   2023: PhD in Psychology (GESIS & RPTU Kaiserslautern-Landau)
--   03/2022-09/2022: Research Associate (University of Education Weingarten)
--   03/2017-12/2022: Research Associate (GESIS—Leibniz Institute for the Social Sciences)
--   2016: M.Sc. Psychology (University of Mannheim)
--   2013: B.Sc. Psychology (University of Ulm)
+- From 04/2026: Postdoctoral Researcher in "Methodology and Statistics" at Utrecht University
+- 02/2026-03/2026: Research Stay at the "Statistics and Data Science" Group at the University of Basel
+- 08/2023-01/2026: Postdoctoral Researcher in DFG Project "Detection and Classification of Misspecifications in Structural Equation Modeling using Machine Learning" (DFG GO 3499/1-1, Utrecht University)
+- 2023: PhD in Psychology (GESIS & RPTU Kaiserslautern-Landau)
+- 03/2022-09/2022: Research Associate (University of Education Weingarten)
+- 03/2017-12/2022: Research Associate (GESIS—Leibniz Institute for the Social Sciences)
+- 2016: M.Sc. Psychology (University of Mannheim)
+- 2013: B.Sc. Psychology (University of Ulm)
 :::
 :::::
 
@@ -89,13 +89,13 @@ Short CV:
 
 Short CV:
 
--   Since 2025: Postdoctoral Researcher involved in the *Programme for International Student Assessment* \[PISA\] (TU Munich)
--   2025: PhD in Psychological Methods (LMU Munich)
--   2024 - 2025: (Postdoctoral) Researcher and Statistician at the DZPG in Bochum
--   2025: M.Sc. Statistics & Data Science (LMU Munich)
--   2021 - 2024: Research Associate and Statistical Consultant for Graduate School *POKAL* (LMU Munich)
--   2021: M.Sc. Psychology (LMU Munich)
--   2017: B.Sc. Psychology (LMU Munich)
+- Since 2025: Postdoctoral Researcher involved in the *Programme for International Student Assessment* \[PISA\] (TU Munich)
+- 2025: PhD in Psychological Methods (LMU Munich)
+- 2024 - 2025: (Postdoctoral) Researcher and Statistician at the DZPG in Bochum
+- 2025: M.Sc. Statistics & Data Science (LMU Munich)
+- 2021 - 2024: Research Associate and Statistical Consultant for Graduate School *POKAL* (LMU Munich)
+- 2021: M.Sc. Psychology (LMU Munich)
+- 2017: B.Sc. Psychology (LMU Munich)
 :::
 :::::
 
@@ -119,10 +119,10 @@ Short CV:
 
 Short CV:
 
--   Since 10/2025: Research Associate in Psychological Methods (with a Focus on Methods for Psychotherapy Research) at Goethe University Frankfurt
--   2025: PhD in Psychology (Goethe University Frankfurt)
--   2022: M.Sc. Psychology (Goethe University Frankfurt)
--   2020: B.Sc. Psychology (Goethe University Frankfurt)
+- Since 10/2025: Research Associate in Psychological Methods (with a Focus on Methods for Psychotherapy Research) at Goethe University Frankfurt
+- 2025: PhD in Psychology (Goethe University Frankfurt)
+- 2022: M.Sc. Psychology (Goethe University Frankfurt)
+- 2020: B.Sc. Psychology (Goethe University Frankfurt)
 :::
 :::::
 
@@ -146,10 +146,10 @@ Short CV:
 
 Short CV:
 
--   Since 10/2025: Research Associate in Psychological Methods (with a Focus on Methods for Psychotherapy Research) at Goethe University Frankfurt
--   Since 2025: PhD Candidate in Psychology (Goethe University Frankfurt)
--   2024: M.Sc. Psychology (Goethe University Frankfurt)
--   2022: B.Sc. Psychology (Goethe University Frankfurt)
+- Since 10/2025: Research Associate in Psychological Methods (with a Focus on Methods for Psychotherapy Research) at Goethe University Frankfurt
+- Since 2025: PhD Candidate in Psychology (Goethe University Frankfurt)
+- 2024: M.Sc. Psychology (Goethe University Frankfurt)
+- 2022: B.Sc. Psychology (Goethe University Frankfurt)
 :::
 :::::
 
@@ -173,9 +173,9 @@ Short CV:
 
 Short CV:
 
--   Since 11/2025: Research Associate in Psychological Methods (with a Focus on Methods for Psychotherapy Research) at Goethe University Frankfurt
--   2025: M.Sc. Mathematics (LMU Munich, Thesis: "A Generalized Framework for Pattern Message Passing")
--   2022: B.Sc. Mathematics (LMU Munich, Thesis: Mathematical Aspects of Pairing Mechanisms in BCS Theory")
+- Since 11/2025: Research Associate in Psychological Methods (with a Focus on Methods for Psychotherapy Research) at Goethe University Frankfurt
+- 2025: M.Sc. Mathematics (LMU Munich, Thesis: "A Generalized Framework for Pattern Message Passing")
+- 2022: B.Sc. Mathematics (LMU Munich, Thesis: Mathematical Aspects of Pairing Mechanisms in BCS Theory")
 :::
 :::::
 
@@ -185,7 +185,7 @@ Short CV:
 ::: {.column width="30%"}
 ![](Figures/jan.png){width="80%"}\
 
-[ohlenmacher@med.uni-frankfurt.de](mailto:ohlenmacher@med.uni-frankfurt.de){.email}\
+[ohlenmacher\@med.uni-frankfurt.de](mailto:ohlenmacher@med.uni-frankfurt.de){.email}\
 
 <!-- [Google Scholar]() \ -->
 
@@ -197,9 +197,9 @@ Short CV:
 
 Short CV:
 
--   Since 10/2024: Research Associate at the Department of Child and Adolescent Psychiatry at Goethe University Frankfurt (MIND CHILD)
--   2023: M.Sc. Psychology: Individual Differences and Assessment (Tilburg University)
--   2021: B.Sc. Psychology (Tilburg University)
+- Since 10/2024: Research Associate at the Department of Child and Adolescent Psychiatry at Goethe University Frankfurt (MIND CHILD)
+- 2023: M.Sc. Psychology: Individual Differences and Assessment (Tilburg University)
+- 2021: B.Sc. Psychology (Tilburg University)
 :::
 :::::
 
@@ -223,8 +223,8 @@ Short CV:
 
 Short CV:
 
--   2025: M.Sc. Psychology: Learning Sciences and Human Development (LMU Munich)
--   2023: State Examination (M.Sc. equivalent) School Psychology (LMU Munich)
+- 2025: M.Sc. Psychology: Learning Sciences and Human Development (LMU Munich)
+- 2023: State Examination (M.Sc. equivalent) School Psychology (LMU Munich)
 :::
 :::::
 
@@ -246,11 +246,9 @@ Short CV:
 
 Short CV:
 
--   since 10/2024: M.Sc. Neurocognitive Psychology (University of Oldenburg)
--   2024: B.Sc. Psychology (Sapienza University of Rome)
+- since 10/2024: M.Sc. Neurocognitive Psychology (University of Oldenburg)
+- 2024: B.Sc. Psychology (Sapienza University of Rome)
 :::
 :::::
 
 ## Alumni
-
-
