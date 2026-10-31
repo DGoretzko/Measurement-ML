@@ -2,7 +2,7 @@
 title: "Team"
 ---
 
-## Researchers
+##
 
 ### Prof. Dr. David Goretzko
 
@@ -40,6 +40,8 @@ Short CV:
 
 \
 
+## Postdoctoral Researchers
+
 ### Dr. Melanie Viola Partsch
 
 ::::: columns
@@ -51,6 +53,8 @@ Short CV:
 [Google Scholar](https://scholar.google.nl/citations?user=dAXVhIQAAAAJ&hl=nl&oi=ao)\
 
 [University Homepage](https://www.uu.nl/staff/MVPartsch1)
+
+[Personal Website](https://mevipa.github.io/)
 :::
 
 ::: {.column width="70%"}
@@ -128,6 +132,37 @@ Short CV:
 
 \
 
+<!-- ### Dr. Björn Siepe -->
+
+<!-- ::::: columns -->
+<!-- ::: {.column width="30%"} -->
+<!-- ![](Figures/bjoern.jpg){width="80%"}\ -->
+
+<!-- [siepe\@psych.uni-frankfurt.de](mailto:siepe@psych.uni-frankfurt.de){.email}\ -->
+
+<!-- [Google Scholar](https://scholar.google.de/citations?user=7hZZigQAAAAJ&hl=de&oi=ao)\ -->
+
+<!-- [University Homepage]() -->
+
+<!-- [Personal Website](https://bsiepe.github.io/) -->
+<!-- ::: -->
+
+<!-- ::: {.column width="70%"} -->
+<!-- **Post-doctoral Researcher at Goethe University Frankfurt**\ -->
+
+<!-- Short CV: -->
+
+<!-- - Since 12/2026: Postdoctoral Researcher in Psychological Methods (with a Focus on Methods for Psychotherapy Research) at Goethe University Frankfurt -->
+<!-- - Since 12/2026: PI in own DFG Project "Empirisches Benchmarking von Zeitreihenmodellen in der Psychologie: Eine Grundlage für personalisierte Vorhersagen" (SI 3629/1-1) -->
+<!-- - 2026: PhD in Psychological Methods (Marburg University) -->
+<!-- - 2022: M.Sc. Psychology (Goethe University Frankfurt) -->
+<!-- - 2020: B.Sc. Psychology (Heidelberg University) -->
+<!-- - 2017: B.Sc. Economics (Heidelberg University) -->
+<!-- ::: -->
+<!-- ::::: -->
+
+## Doctoral Researchers
+
 ### Mareike Ebert, M.Sc.
 
 ::::: columns
@@ -163,7 +198,7 @@ Short CV:
 
 [schuhbeck\@psych.uni-frankfurt.de](mailto:schuhbeck@psych.uni-frankfurt.de){.email}\
 
-<!-- [Google Scholar]() \ -->
+[Google Scholar](https://scholar.google.de/citations?user=VIxdX9kAAAAJ&hl=de&oi=ao)
 
 [University Homepage](https://www.psychologie.uni-frankfurt.de/181004806/Tizian_Schuhbeck)
 :::
@@ -248,6 +283,29 @@ Short CV:
 
 - since 10/2024: M.Sc. Neurocognitive Psychology (University of Oldenburg)
 - 2024: B.Sc. Psychology (Sapienza University of Rome)
+:::
+:::::
+
+### Nils Magnús van Reem, B.Sc.
+
+::::: columns
+::: {.column width="30%"}
+<!-- ![](Figures/nils.png){width="80%"}\ -->
+
+[nilsvanreem\@gmail.com](mailto:nilsvanreem@gmail.com){.email}\
+
+<!-- [Google Scholar]() \ -->
+
+<!-- [University Homepage]()  -->
+:::
+
+::: {.column width="70%"}
+**Research Intern at the Measurement and Machine Learning Lab**\
+
+Short CV:
+
+<!-- - since 10/2024: M.Sc. Psychology (Technical University Darmstadt) -->
+<!-- - 2024: B.Sc. Psychology (Technical University Darmstadt) -->
 :::
 :::::
 

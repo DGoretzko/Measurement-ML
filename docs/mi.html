@@ -2,16 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>A New Perspective on Measurement Invariance – </title>
 <style>
-/* Default styles provided by pandoc.
-** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -39,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -83,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title"><img src=".\Figures/MeasurementMachineLearningLab.png" class="img-fluid" width="150"></span>
+    <span class="navbar-title"><img src="./Figures/MeasurementMachineLearningLab.png" class="img-fluid" width="150"></span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -120,6 +117,10 @@ ul.task-list li input[type="checkbox"] {
         <li>
     <a class="dropdown-item" href="./ml.html">
  <span class="dropdown-text">ML in Psychology</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./net.html">
+ <span class="dropdown-text">Multimodal Idiographic Networks</span></a>
   </li>  
     </ul>
   </li>
@@ -178,7 +179,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Schuhbeck, T. M. B., Sterner, P., &amp; Goretzko, D. (2025). Quantifying Measurement Non-Invariance Beyond Simple Structure: The Closed Formulas of Universal Effect Size Measures for MI. Structural Equation Modeling: A Multidisciplinary Journal. <a href="https://doi.org/10.1080/10705511.2025.2570447" class="uri">https://doi.org/10.1080/10705511.2025.2570447</a></p>
 <p>Sterner, P., Pargent, F., &amp; Goretzko, D. (2026). Don’t let MI be misunderstood: Measurement invariance is more than a statistical assumption. Current Research in Ecological and Social Psychology. <a href="https://doi.org/10.1016/j.cresp.2025.100261" class="uri">https://doi.org/10.1016/j.cresp.2025.100261</a></p>
 <p>Goretzko, D., Howard, M. C., &amp; Sterner, P. (2026). Investigating Measurement Invariance for Multiple Covariates in Organizational Research using EFA and CFA Trees. Journal of Applied Psychology. <a href="https://doi.org/10.1037/apl0001368" class="uri">https://doi.org/10.1037/apl0001368</a></p>
-<p>Sterner, P., &amp; Goretzko, D. (under review) The mismeasure of comparability: Non-invariance and nomological validity in cross-cultural psychology—A commentary on Kusano et al.(2025). PsyArXiv Preprint. <a href="https://doi.org/10.31234/osf.io/pnu8w_v2" class="uri">https://doi.org/10.31234/osf.io/pnu8w_v2</a></p>
+<p>Sterner, P., &amp; Goretzko, D. (accepted for publication) The mismeasure of comparability: Non-invariance and nomological validity in cross-cultural psychology—A commentary on Kusano et al.(2025). Psychological Methods. Pre-Print: <a href="https://doi.org/10.31234/osf.io/pnu8w_v2" class="uri">https://doi.org/10.31234/osf.io/pnu8w_v2</a></p>
+<p>Schuhbeck, T. M. B., Partsch, M. V., Sterner, P., &amp; Goretzko, D. (under review). Effect-Based Assessments of Intergroup Comparability–The Practical Impact of Measurement Non-Invariance &amp; Differential Item Functioning on Psychological Tests and Scales. <a href="https://osf.io/download/sjtp3/" class="uri">https://osf.io/download/sjtp3/</a></p>
 
 
 
@@ -234,14 +236,13 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -598,7 +599,7 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="./index.html">Measurement and Machine Learning Lab</a></p>
 </div>
     <div class="nav-footer-right">
-<p><img src=".\Figures/MMLLab.png" class="img-fluid" width="70"></p>
+<p><img src="./Figures/MMLLab.png" class="img-fluid" width="70"></p>
 </div>
   </div>
 </footer>

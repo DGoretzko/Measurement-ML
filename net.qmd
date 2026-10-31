@@ -1,0 +1,16 @@
+---
+title: "Multimodal Idiographic Network Models"
+---
+
+In this project funded by the *Dr. Elmar & Ellis Reiss Stiftung* (Reiss Foundation), we investigate new methodological approaches to integrate mobile sensing with ecological momentary assessment (EMA) data in dynamic person-specific network models. 
+A central challenge that we aim to address in this project is the different temporal resolution of passive sensing data compared to EMA data.
+Thus, our goal is to determine appropriate data preprocessing steps and modeling decisions when integrating individual time series data from different sources. 
+
+::: {#fig1 style="text-align:center;"}
+![](Figures/reiss.png)\
+
+:::
+
+**Selected Publications and Preprints:**
+
+Schoedel, R., Sust, L., Sterner, P., & Goretzko, D. (2026). From Digital Data to Psychological Insights: Making Sense of Mobile-Sensing Data through Integrative Preprocessing Pipelines. Psychometrika, 1–28. <https://doi.org/10.1017/psy.2026.10083>

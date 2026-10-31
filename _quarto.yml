@@ -20,6 +20,8 @@ website:
             href: dim.qmd
           - text: "ML in Psychology"
             href: ml.qmd
+          - text: "Multimodal Idiographic Networks"
+            href: net.qmd
       - news.qmd
   page-footer:
     #center:

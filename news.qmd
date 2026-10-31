@@ -4,6 +4,12 @@ title: "News and Upcoming Events"
 
 ## Workshops & Talks
 
+**Invited Talk at the Webinar Series of the Structural Equation Modeling and Multilevel Modeling (SEM-MLM) Special Interest Group of the American Educational Research Association (AERA).**
+
+As part of the newly launched *SEM-MLM SIG Webinar Series*, David will give a talk titled "New Perspectives on Measurement Invariance – From a Causal Lense to Effect Size Measures" on November 6 (12:00 PM EST). This webinar is open to anyone who is interested, including SIG members and nonmembers ([Registration Link](https://vcu.zoom.us/meeting/register/3Q2PVFT7RFG22QEs6guXIg)).
+
+\
+
 **Introductory Workshop on Machine Learning at the Early Career Researcher Retreat of the Methods and Evaluation Section of the German Psychological Society (DGPs)**
 
 The Methods and Evaluation Section of the German Psychological Society (DGPs) is organizing an ECR retreat for methodologists from October 7–9, 2026, in Frankfurt. As part of the retreat program, David will teach a workshop titled *Introduction to Supervised Machine Learning*.
