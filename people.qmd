@@ -281,7 +281,7 @@ Short CV:
 
 Short CV:
 
-- since 10/2024: M.Sc. Neurocognitive Psychology (University of Oldenburg)
+- Since 10/2024: M.Sc. Neurocognitive Psychology (University of Oldenburg)
 - 2024: B.Sc. Psychology (Sapienza University of Rome)
 :::
 :::::
@@ -290,7 +290,7 @@ Short CV:
 
 ::::: columns
 ::: {.column width="30%"}
-<!-- ![](Figures/nils.png){width="80%"}\ -->
+![](Figures/Nils.jpg){width="80%"}\
 
 [nilsvanreem\@gmail.com](mailto:nilsvanreem@gmail.com){.email}\
 
@@ -304,8 +304,9 @@ Short CV:
 
 Short CV:
 
-<!-- - since 10/2024: M.Sc. Psychology (Technical University Darmstadt) -->
-<!-- - 2024: B.Sc. Psychology (Technical University Darmstadt) -->
+- Since 02/2026: Student Research Assistant at DIPF (Technology-Based Assessment Unit)
+- Since 10/2025: M.Sc. Psychology (TU Darmstadt)
+- 2024: B.Sc. Psychology (Goethe University Frankfurt)
 :::
 :::::
 
